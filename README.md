@@ -74,15 +74,15 @@
 
 
 <br/>
- <h3> Portfolio </h3>
+ <h2> Portfolio </h2>
 <p>
- 1. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Worldwide-Project" target="_blank"> Renewable-Energy-Worldwide-Project</a> </b>
+  <h3> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Worldwide-Project" target="_blank"> Renewable-Energy-Worldwide-Project</a> </h3>
  <br/>
  <img src="https://github.com/user-attachments/assets/1a979b99-df94-41cc-9bf9-0b35e5d82c31" />
 </p>
 
 <p>
- 2. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-1" target="_blank"> Renewable-Energy-Predictive-Analysis-1</a> </b>
+ <h3> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-1" target="_blank"> Renewable-Energy-Predictive-Analysis-1</a> </h3>
  <br/>
  <img src="https://github.com/user-attachments/assets/9464019b-e574-41e3-9231-9413dffdb2c1" width="780px" />
 
@@ -90,7 +90,7 @@
 </p>
 
 <p>
- 3. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-2" target="_blank"> Renewable-Energy-Predictive-Analysis-2 </a> </b>
+  <h3> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-2" target="_blank"> Renewable-Energy-Predictive-Analysis-2 </a> </h3>
  <br/>
  <img src="https://github.com/user-attachments/assets/4f7e5d18-d6f7-4275-b1e0-e20a0ad0ba59" width="780px"/>
 
