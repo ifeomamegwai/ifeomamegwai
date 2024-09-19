@@ -15,16 +15,43 @@
 
 > A proficient problem-solver and focused learner, constantly applying the best software techniques to constantly deliver high-quality software products.
 
-> Data Skills: A/B testing, SQL, Python, Machine Learning, Microsoft Power BI, Looker, Microsoft Excel, DBT, Fivetran, Git, GitHub, Googlesheet, Hubspot, Google BigQuery, Airflow, Insomnia, PostgreSQL Microsoft Power BI , Census, Microsoft SPSS, Zapier
+> Data Skills:
+>  SQL
+> Python (including libraries like Pandas, NumPy, Matplotlib, etc.)
+> Machine Learning (regression, classification, clustering, etc.)
+> Data Visualization (using Power BI, Looker Studio, Plotly, Seaborn and Matplotlib)
+> Data Cleaning & Transformation (using Python, SQL, Excel, Google Sheets, Power Query)
+> A/B Testing ( using Python and Microsoft SPSS)
+> Statistical Analysis (using Python, SPSS)
+
+> Soft Skills:
+> Problem Solving
+> Attention to Detail
+> Critical Thinking & Analytical Skills
+> Investigative Mindset
+> Excellent Communication & Collaboration Skills
 
 
-> Cloud Technologies: 
-
+> Cloud Technologies:
+> Google BigQuery,
+> Google Colab,
+> Airflow
 
 > Tools:
-
-
-
+> Microsoft Power BI
+> Looker Studio
+> Microsoft Excel
+> Google Sheets
+> DBT (Data Build Tool)
+> Fivetran
+> Git & GitHub
+> PostgreSQL
+> HubSpot
+> Insomnia
+> Zapier
+> Notion
+> GA4
+> GTM
 
 ---
 
