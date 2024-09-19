@@ -84,15 +84,15 @@
 <p>
  2. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-1" target="_blank"> Renewable-Energy-Predictive-Analysis-1</a> </b>
  <br/>
- <img src="https://github.com/user-attachments/assets/ba77e550-c99b-4560-abb4-ba0b85e0bb7d" />
+ <img src="https://github.com/user-attachments/assets/9464019b-e574-41e3-9231-9413dffdb2c1" width="780px" />
+
 
 </p>
 
 <p>
  3. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-1" target="_blank"> Renewable-Energy-Predictive-Analysis-1</a> </b>
  <br/>
- <img src="https://github.com/user-attachments/assets/ba77e550-c99b-4560-abb4-ba0b85e0bb7d" />
-
+ <img src="" />
 </p>
 
 <br/>
