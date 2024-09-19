@@ -15,7 +15,8 @@
 
 > A proficient problem-solver and focused learner, constantly applying the best software techniques to constantly deliver high-quality software products.
 
-> Data Skills:
+> Data Skills: A/B testing, SQL, Python, Machine Learning, Microsoft Power BI, Looker, Microsoft Excel, DBT, Fivetran, Git, GitHub, Googlesheet, Hubspot, Google BigQuery, Airflow, Insomnia, PostgreSQL Microsoft Power BI , Census, Microsoft SPSS, Zapier
+
 
 > Cloud Technologies: 
 
