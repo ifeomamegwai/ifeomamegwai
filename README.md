@@ -68,18 +68,25 @@
   <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
+  
 </p>
 
----
+
 
 
 <br/>
  <h2> Portfolio </h2>
+
+ 
 <p>
   <h3> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Worldwide-Project" target="_blank"> Renewable-Energy-Worldwide-Project</a> </h3>
  <br/>
  <img src="https://github.com/user-attachments/assets/1a979b99-df94-41cc-9bf9-0b35e5d82c31" />
 </p>
+
+
+---
+
 
 <p>
  <h3> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-1" target="_blank"> Renewable-Energy-Predictive-Analysis-1</a> </h3>
@@ -88,6 +95,9 @@
 
 
 </p>
+
+---
+
 
 <p>
   <h3> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-2" target="_blank"> Renewable-Energy-Predictive-Analysis-2 </a> </h3>
