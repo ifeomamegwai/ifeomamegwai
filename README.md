@@ -83,7 +83,7 @@
 
  
  <br/>
- <img src="https://github.com/user-attachments/assets/1a979b99-df94-41cc-9bf9-0b35e5d82c31" />
+    <a href="https://github.com/ifeomamegwai/Renewable-Energy-Worldwide-Project" target="_blank"> <img src="https://github.com/user-attachments/assets/1a979b99-df94-41cc-9bf9-0b35e5d82c31" /> </a> 
 </p>
 
 
@@ -108,7 +108,7 @@
 
  
  <br/>
- <img src="https://github.com/user-attachments/assets/4f7e5d18-d6f7-4275-b1e0-e20a0ad0ba59" width="780px"/>
+  <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-2" target="_blank"> <img src="https://github.com/user-attachments/assets/4f7e5d18-d6f7-4275-b1e0-e20a0ad0ba59" width="780px"/> </a>
 
 </p>
 
@@ -121,7 +121,7 @@
 
  
  <br/>
- <img src="https://github.com/user-attachments/assets/b5ae2375-dcf1-44d4-ab77-4f14de421ac4" width="780px"/>
+      <a href="https://github.com/ifeomamegwai/Airbnb-Project" target="_blank"> <img src="https://github.com/user-attachments/assets/b5ae2375-dcf1-44d4-ab77-4f14de421ac4" width="780px"/>  </a> 
 
 </p>
 
