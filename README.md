@@ -1,15 +1,16 @@
 <h1 align="center">Hi there, I'm Ifeoma 👋</h1>
 
 <p align="center"> 
+ <a href="https://drive.google.com/file/d/17aIgYrTpCzZdQZzRhhf-cPVR8sPn3XTx/view" alt="ifeoma megwai's resume">
+   <img src="https://img.shields.io/badge/-ifeoma_resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white&link=https://drive.google.com/file/d/17aIgYrTpCzZdQZzRhhf-cPVR8sPn3XTx/view" />
+ </a>
  <a href="https://github.com/ifeomamegwai" alt="ifeoma megwai's github">
    <img src="https://img.shields.io/badge/-@ifeomamegwai-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/ifeoma-megwai/" alt="ifeoma megwai's linkedin">
    <img src="https://img.shields.io/badge/-ifeomamegwai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifeoma-megwai/" />
  </a>
- <a href="https://drive.google.com/file/d/17aIgYrTpCzZdQZzRhhf-cPVR8sPn3XTx/view" alt="ifeoma megwai's resume">
-   <img src="https://img.shields.io/badge/-ifeoma_resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white&link=https://drive.google.com/file/d/17aIgYrTpCzZdQZzRhhf-cPVR8sPn3XTx/view" />
- </a>
+ 
 </p>
 
 > I bring over 10 years of experience as a Senior Legal Counsel and Regulatory Compliance Analyst, specializing in solving complex regulatory challenges. Recently, I completed an intensive 9-week Data Analytics bootcamp at Le Wagon, where I developed strong skills in data analysis, visualization, and machine learning, alongside earning my Certified AML (FinTech) Compliance Associate (CAFCA) certification from ACAMS in May 2024.
