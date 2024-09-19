@@ -52,9 +52,6 @@
 
 <br/>
 
-<p> 
-<a href="https://app.daily.dev/hmegwai"><img src="https://api.daily.dev/devcards/335f83b3775c4082a241deefd59b0e85.png?r=j07" width="400" alt="HENRY MEGWAI's Dev Card"/></a>
-</p>
 <br/>
  
 ---
