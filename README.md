@@ -90,7 +90,7 @@
 </p>
 
 <p>
- 3. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-1" target="_blank"> Renewable-Energy-Predictive-Analysis-1</a> </b>
+ 3. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-2" target="_blank"> Renewable-Energy-Predictive-Analysis-2 </a> </b>
  <br/>
  <img src="" />
 </p>
