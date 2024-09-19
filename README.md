@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/-ifeomamegwai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifeoma-megwai/" />
  </a>
  <a href="https://drive.google.com/file/d/17aIgYrTpCzZdQZzRhhf-cPVR8sPn3XTx/view" alt="ifeoma megwai's resume">
-   <img src="https://img.shields.io/badge/-resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white&link=https://drive.google.com/file/d/17aIgYrTpCzZdQZzRhhf-cPVR8sPn3XTx/view" />
+   <img src="https://img.shields.io/badge/-ifeoma_resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white&link=https://drive.google.com/file/d/17aIgYrTpCzZdQZzRhhf-cPVR8sPn3XTx/view" />
  </a>
 </p>
 
