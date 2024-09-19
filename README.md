@@ -73,10 +73,6 @@
 ---
 
 
-<p> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeomamegwai&layout=compact&hide=html&theme=dark" alt="ifeoma megwai" /> 
-</p>
-
 <br/>
 
 <br/>
