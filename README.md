@@ -92,7 +92,8 @@
 <p>
  3. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-2" target="_blank"> Renewable-Energy-Predictive-Analysis-2 </a> </b>
  <br/>
- <img src="" />
+ <img src="https://github.com/user-attachments/assets/4f7e5d18-d6f7-4275-b1e0-e20a0ad0ba59" width="780px"/>
+
 </p>
 
 <br/>
