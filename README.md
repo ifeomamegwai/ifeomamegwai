@@ -95,7 +95,7 @@
 
  
  <br/>
- <img src="https://github.com/user-attachments/assets/9464019b-e574-41e3-9231-9413dffdb2c1" width="780px" />
+<a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-1" target="_blank">  <img src="https://github.com/user-attachments/assets/9464019b-e574-41e3-9231-9413dffdb2c1" width="780px" /> </a> 
 
 
 </p>
