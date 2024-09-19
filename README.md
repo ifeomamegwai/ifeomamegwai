@@ -11,7 +11,7 @@
 
 > I bring over 10 years of experience as a Senior Legal Counsel and Regulatory Compliance Analyst, specializing in solving complex regulatory challenges. Recently, I completed an intensive 9-week Data Analytics bootcamp at Le Wagon, where I developed strong skills in data analysis, visualization, and machine learning, alongside earning my Certified AML (FinTech) Compliance Associate (CAFCA) certification from ACAMS in May 2024.
 
-Now, I am eager to expand my expertise as a data analyst in any industry. My background equips me with a sharp analytical mindset, attention to detail, and the ability to draw actionable insights from data. Whether it's optimizing business processes, enhancing customer experiences, or supporting data-driven decision-making, I am ready to bring my skills in SQL, Python, Power BI, Looker, and other modern data tools to any dynamic team.
+> Now, I am eager to expand my expertise as a data analyst in any industry. My background equips me with a sharp analytical mindset, attention to detail, and the ability to draw actionable insights from data. Whether it's optimizing business processes, enhancing customer experiences, or supporting data-driven decision-making, I am ready to bring my skills in SQL, Python, Power BI, Looker, and other modern data tools to any dynamic team.
 
 
 > Data Skills:
