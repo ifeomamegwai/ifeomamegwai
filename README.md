@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Henry 👋</h1>
+<h1 align="center">Hi there, I'm Ifeoma 👋</h1>
 
 <p align="center"> 
  <a href="https://github.com/ifeomamegwai" alt="ifeoma megwai's github">
