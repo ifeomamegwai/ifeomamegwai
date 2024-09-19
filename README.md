@@ -74,12 +74,21 @@
 
 
 <br/>
+ <h3> Portfolio </h3>
 <p>
-   <h3> Portfolio </h3>
- 1. <b> <a href="https://github.com/ifeomamegwai/Le-Wagon-Final-Project-Renewable-Energy-Worldwide" target="_blank"> Le-Wagon-Final-Project-Renewable-Energy-Worldwide </a> </b>
+ 1. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Worldwide-Project" target="_blank"> Renewable-Energy-Worldwide-Project</a> </b>
  <br/>
  <img src="https://github.com/user-attachments/assets/1a979b99-df94-41cc-9bf9-0b35e5d82c31" />
 </p>
+
+<p>
+ 2. <b> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Predictive-Analysis-1" target="_blank"> Renewable-Energy-Predictive-Analysis-1</a> </b>
+ <br/>
+ <img src="https://github.com/user-attachments/assets/76b2400e-0fa2-4004-9913-74cae392c8e8" />
+
+
+</p>
+
 <br/>
 
 ---
