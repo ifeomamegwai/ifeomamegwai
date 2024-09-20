@@ -67,20 +67,24 @@
 <p align="center">
 
  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github actions" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github actions" style="vertical-align:top; margin:4px"/>
   </a>
   <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px"/>
   </a>
    <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
   </a>
 <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
   </a>
   <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
   </a>
+<a href="#">
+    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
+  </a>
+  
 </p>
 
 
