@@ -148,4 +148,4 @@
 
 #### Trivial
 - 🦸 Endorse me / Leave a Recommendation on LinkedIn <a href="https://www.linkedin.com/in/ifeoma-megwai/" target="_blank">Ifeoma Megwai</a> 
-- 🦸 Career Aim - ! 
+- 🦸 Career Aim - To Keep Learning! 
