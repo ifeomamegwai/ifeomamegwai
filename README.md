@@ -66,13 +66,15 @@
 
 <p align="center">
 
- <a href="https://docs.github.com/en/actions">
+ <a href="#">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github actions" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.git.com">
+  <a href="#">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
-  
+   <a href="#">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 
