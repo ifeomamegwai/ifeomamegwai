@@ -59,7 +59,7 @@
 ---
 
 
- <h2> Portfolio </h2>
+ <h2 align="center"> Portfolio </h2>
 
  
 <p>
