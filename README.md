@@ -19,20 +19,20 @@
 
 
 > Data Skills:
->  SQL
-> Python (including libraries like Pandas, NumPy, Matplotlib, etc.)
-> Machine Learning (regression, classification, clustering, etc.)
-> Data Visualization (using Power BI, Looker Studio, Plotly, Seaborn and Matplotlib)
-> Data Cleaning & Transformation (using Python, SQL, Excel, Google Sheets, Power Query)
-> A/B Testing ( using Python and Microsoft SPSS)
-> Statistical Analysis (using Python, SPSS)
+>  SQL;
+> Python (including libraries like Pandas, NumPy, Matplotlib, etc.);
+> Machine Learning (regression, classification, clustering, etc.);
+> Data Visualization (using Power BI, Looker Studio, Plotly, Seaborn and Matplotlib);
+> Data Cleaning & Transformation (using Python, SQL, Excel, Google Sheets, Power Query);
+> A/B Testing ( using Python and Microsoft SPSS);
+> Statistical Analysis (using Python, SPSS).
 
 > Soft Skills:
-> Problem Solving
-> Attention to Detail
-> Critical Thinking & Analytical Skills
-> Investigative Mindset
-> Excellent Communication & Collaboration Skills
+> Problem Solving;
+> Attention to Detail;
+> Critical Thinking & Analytical Skills;
+> Investigative Mindset;
+> Excellent Communication & Collaboration Skills;
 
 
 > Cloud Technologies:
@@ -41,20 +41,20 @@
 > Airflow
 
 > Tools:
-> Microsoft Power BI
-> Looker Studio
-> Microsoft Excel
-> Google Sheets
-> DBT (Data Build Tool)
-> Fivetran
-> Git & GitHub
-> PostgreSQL
-> HubSpot
-> Insomnia
-> Zapier
-> Notion
-> GA4
-> GTM
+> Microsoft Power BI;
+> Looker Studio;
+> Microsoft Excel;
+> Google Sheets;
+> DBT (Data Build Tool);
+> Fivetran;
+> Git & GitHub;
+> PostgreSQL;
+> HubSpot;
+> Insomnia;
+> Zapier;
+> Notion;
+> GA4;
+> GTM.
 
 ---
 
