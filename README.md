@@ -191,7 +191,7 @@
 
 
 <p>
-  <h3> <a href="https://github.com/ifeomamegwai/Python-And-Machine-Learning/" target="_blank"> Visualization Dashboards </a> </h3>
+  <h3> <a href="https://github.com/ifeomamegwai/Python-And-Machine-Learning/" target="_blank"> Python & Machine Learning</a> </h3>
 
  
  <br/>
