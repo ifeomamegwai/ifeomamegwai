@@ -58,27 +58,7 @@
 
 ---
 
-<p align="center"> 
- <strong>
-  Tech Stack
-  </strong>
-</p>
 
-<p align="center">
-
- <a href="https://docs.github.com/en/actions">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github actions" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.git.com">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
-  </a>
-  
-</p>
-
-
-
-
-<br/>
  <h2> Portfolio </h2>
 
  
