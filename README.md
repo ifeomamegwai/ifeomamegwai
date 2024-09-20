@@ -78,6 +78,9 @@
 <a href="#">
     <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px">
   </a>
+  <a href="#">
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 
