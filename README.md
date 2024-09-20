@@ -32,13 +32,13 @@
 > Attention to Detail;
 > Critical Thinking & Analytical Skills;
 > Investigative Mindset;
-> Excellent Communication & Collaboration Skills;
+> Excellent Communication & Collaboration Skills.
 
 
 > Cloud Technologies:
 > Google BigQuery,
 > Google Colab,
-> Airflow
+> Airflow.
 
 > Tools:
 > Microsoft Power BI;
