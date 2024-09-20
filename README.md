@@ -77,7 +77,7 @@
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
   </a>
 <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
+    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px" width="220px"/>
   </a>
 <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px" width="30px"/>
@@ -92,9 +92,11 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px"/>
   </a>
   <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"  width="230px"/>
   </a>
-
+ <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="#" style="vertical-align:top; margin:4px" width="90px"/>
+  </a>
  <a href="#">
     <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
   </a>
