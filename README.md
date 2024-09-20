@@ -104,6 +104,9 @@
 
    <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="microsoft_powerbi-ar21" width="130px"/>
+  </a> &nbsp;&nbsp;
+   <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg" alt="microsoft_powerbi-ar21" width="40px"/>
   </a>
 
   
