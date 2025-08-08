@@ -13,48 +13,61 @@
  
 </p>
 
-> I bring over 10 years of experience as a Senior Legal Counsel and Regulatory Compliance Analyst, specializing in solving complex regulatory challenges. Recently, I completed an intensive 9-week Data Analytics bootcamp at Le Wagon, where I developed strong skills in data analysis, visualization, and machine learning, alongside earning my Certified AML (FinTech) Compliance Associate (CAFCA) certification from ACAMS in May 2024.
+> A results-driven professional with a solid foundation in legal compliance, AML/CTF, and data analytics. Backed by over 10 years of experience in legal practice and compliance, and certified in CAMS and CAFCA by ACAMS. I bring technical proficiency in Python, SQL, Power BI, Google BigQuery, Airflow and foundational machine learning—enabling me to translate complex regulatory requirements into actionable, data-driven insights.
 
-> Now, I am eager to expand my expertise as a data analyst in any industry. My background equips me with a sharp analytical mindset, attention to detail, and the ability to draw actionable insights from data. Whether it's optimizing business processes, enhancing customer experiences, or supporting data-driven decision-making, I am ready to bring my skills in SQL, Python, Power BI, Looker, and other modern data tools to any dynamic team.
+> Known for my analytical thinking, strong communication, and collaborative approach, I have a proven track record of reducing regulatory risks and streamlining compliance processes.
+
+> I am passionate about leveraging my cross-functional expertise to contribute meaningfully in roles at the intersection of law, AML compliance, and analytics, while constantly growing in this evolving space.
 
 
-> Data Skills:
+
+> AML Compliance & Legal Skills:
+> AML/CFT Compliance Programs;
+> Case Analysis;
+> Data Security & Privacy Compliance;
+> Due Diligence;
+> Legal Contracts & Agreements;
+> Legal Research & Writing;
+> Legal Practice;
+> AML Investigations Inquiries & reporting;
+> Anti-Financial Crime Strategies;
+> Risks and Methods of ML/TF and Management;
+> International AML/CFT Standards;
+> Conducting and Responding to Investigations;
+> SAR preparation & filing;
+> Regulatory Compliance Analytics;
+> Payment screening;
+> Transaction Monitoring;
+> Transaction Pattern Analysis;
+> Reporting Automation.
+>
+> Data Analytics Skills:
+> Power BI;
+> Power Query;
+> DAX;
+> ETL;
+> Dashboard Building;
+> Looker Studio;
 >  SQL;
-> Python (including libraries like Pandas, NumPy, Matplotlib, etc.);
-> Machine Learning (regression, classification, clustering, etc.);
-> Data Visualization (using Power BI, Looker Studio, Plotly, Seaborn and Matplotlib);
-> Data Cleaning & Transformation (using Python, SQL, Excel, Google Sheets, Power Query);
-> A/B Testing ( using Python and Microsoft SPSS);
-> Statistical Analysis (using Python, SPSS).
+> Python;
+> Machine Learning;
+> Data Visualization;
+> A/B Testing;
+> Git/GitHub;
+> Google Big Query;
+> Data Analytics;
+> Data Preprocessing;
+> Airflow;
+> Google Colaboratory;
+> MS Excel.
 
 > Soft Skills:
 > Problem Solving;
 > Attention to Detail;
 > Critical Thinking & Analytical Skills;
 > Investigative Mindset;
-> Excellent Communication & Collaboration Skills.
+> Communication & Collaboration Skills.
 
-
-> Cloud Technologies:
-> Google BigQuery,
-> Google Colab,
-> Airflow.
-
-> Tools:
-> Microsoft Power BI;
-> Looker Studio;
-> Microsoft Excel;
-> Google Sheets;
-> DBT (Data Build Tool);
-> Fivetran;
-> Git & GitHub;
-> PostgreSQL;
-> HubSpot;
-> Insomnia;
-> Zapier;
-> Notion;
-> GA4;
-> GTM.
 
 ---
 
@@ -77,9 +90,6 @@
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
   </a>
 <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px" width="220px"/>
-  </a>
-<a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px" width="30px"/>
   </a>
   <a href="#">
@@ -96,17 +106,6 @@
   </a>
  <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="#" style="vertical-align:top; margin:4px" width="90px"/>
-  </a>
- <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
-  </a>
-  
- <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
-  </a>
-  
- <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
   </a>
 
    <a href="#">
