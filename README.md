@@ -21,7 +21,7 @@
 
 
 > Data Skills:
->  SQL;
+>  SQL
 > Python (including libraries like Pandas, NumPy, Matplotlib, etc.);
 > Machine Learning (regression, classification, clustering, etc.);
 > Data Visualization (using Power BI, Looker Studio, Plotly, Seaborn and Matplotlib);
