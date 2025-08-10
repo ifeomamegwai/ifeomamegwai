@@ -17,46 +17,46 @@
 
 > Proficient in Python, SQL, Power BI, Looker Studio, Airflow, and BigQuery, I design and deploy transaction monitoring dashboards, automate regulatory reporting, and apply analytics to detect suspicious patterns and assess customer risk. My work has reduced compliance reporting time by over 50%, improved detection accuracy for suspicious transactions, and cut screening times by 40% through risk-scoring models.
 
-> Now, I am eager to expand my expertise as a data analyst in any industry. My background equips me with a sharp analytical mindset, attention to detail, and the ability to draw actionable insights from data. Whether it's optimizing business processes, enhancing customer experiences, or supporting data-driven decision-making, I am ready to bring my skills in SQL, Python, Power BI, Looker, and other modern data tools to any dynamic team.
+> AML & Compliance Skills:
+> Anti-Financial Crime Strategies;
+> AML/CFT Compliance Programs;
+> AML Investigations and Inquiries;
+> Due Diligence;
+> Fraud Risk Analysis;
+> Governance Frameworks;
+> KYC/CDD;
+> Payment screening;
+> Regulatory Reporting Automation;
+> Risks Assessment and Risk Management;
+> Risk Scoring Models;
+> SAR preparation & filing;
+> Transaction Monitoring.
 
-
-> Data Skills:
+> Data Analytics Skills:
+> Airflow;
+> Power BI;
+> Power Query;,
+> DAX;
+> Data Modelling;
+> ETL;
+> Looker Studio;
+> MS Excel
+> Git/Github;
 >  SQL;
-> Python (including libraries like Pandas, NumPy, Matplotlib, etc.);
-> Machine Learning (regression, classification, clustering, etc.);
-> Data Visualization (using Power BI, Looker Studio, Plotly, Seaborn and Matplotlib);
-> Data Cleaning & Transformation (using Python, SQL, Excel, Google Sheets, Power Query);
-> A/B Testing ( using Python and Microsoft SPSS);
-> Statistical Analysis (using Python, SPSS).
+> Google Big Query;
+> Google Colaboratory;
+> Python;
+> Machine Learning (Foundational);
+> Data Visualization;
+> DBT;
+> PostgreSQL;
+> A/B Testing.
 
 > Soft Skills:
 > Problem Solving;
 > Attention to Detail;
-> Critical Thinking & Analytical Skills;
-> Investigative Mindset;
+> Analytical thinking;
 > Excellent Communication & Collaboration Skills.
-
-
-> Cloud Technologies:
-> Google BigQuery,
-> Google Colab,
-> Airflow.
-
-> Tools:
-> Microsoft Power BI;
-> Looker Studio;
-> Microsoft Excel;
-> Google Sheets;
-> DBT (Data Build Tool);
-> Fivetran;
-> Git & GitHub;
-> PostgreSQL;
-> HubSpot;
-> Insomnia;
-> Zapier;
-> Notion;
-> GA4;
-> GTM.
 
 ---
 
@@ -79,9 +79,6 @@
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
   </a>
 <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-horizontal.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px" width="220px"/>
-  </a>
-<a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px" width="30px"/>
   </a>
   <a href="#">
@@ -99,18 +96,6 @@
  <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="#" style="vertical-align:top; margin:4px" width="90px"/>
   </a>
- <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
-  </a>
-  
- <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
-  </a>
-  
- <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-ar21.svg" alt="microsoft_powerbi-ar21" style="vertical-align:top; margin:4px"/>
-  </a>
-
    <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" alt="microsoft_powerbi-ar21" width="130px"/>
   </a> &nbsp;&nbsp;
