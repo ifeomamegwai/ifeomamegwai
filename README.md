@@ -13,7 +13,9 @@
  
 </p>
 
-> I bring over 10 years of experience as a Senior Legal Counsel and Regulatory Compliance Analyst, specializing in solving complex regulatory challenges. Recently, I completed an intensive 9-week Data Analytics bootcamp at Le Wagon, where I developed strong skills in data analysis, visualization, and machine learning, alongside earning my Certified AML (FinTech) Compliance Associate (CAFCA) certification from ACAMS in May 2024.
+> ACAMS-certified AML Specialist & Analytics Professional combining strong legal and regulatory expertise with advanced data analytics skills to combat financial crime, strengthen risk controls, and enhance risk management. Experienced in high-risk client advisory, KYC, compliance governance, transaction monitoring, and fraud prevention across financial services and corporate sectors.
+
+> Proficient in Python, SQL, Power BI, Looker Studio, Airflow, and BigQuery, I design and deploy transaction monitoring dashboards, automate regulatory reporting, and apply analytics to detect suspicious patterns and assess customer risk. My work has reduced compliance reporting time by over 50%, improved detection accuracy for suspicious transactions, and cut screening times by 40% through risk-scoring models.
 
 > Now, I am eager to expand my expertise as a data analyst in any industry. My background equips me with a sharp analytical mindset, attention to detail, and the ability to draw actionable insights from data. Whether it's optimizing business processes, enhancing customer experiences, or supporting data-driven decision-making, I am ready to bring my skills in SQL, Python, Power BI, Looker, and other modern data tools to any dynamic team.
 
