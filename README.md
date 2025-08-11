@@ -114,6 +114,19 @@
 
  
 <p>
+  <h3> <a href="https://github.com/ifeomamegwai/End-to-End-Automation-for-Compliance-Reporting-/" target="_blank"> Regulatory Reporting Compliance</a> </h3>
+
+ 
+ <br/>
+      <a href="https://github.com/ifeomamegwai/End-to-End-Automation-for-Compliance-Reporting-/" target="_blank"> <img src="https://github.com/ifeomamegwai/ifeomamegwai/blob/main/Regulatory%20Reporting%20Automation%20Dashboard2.jpg"/>  </a> 
+
+</p>
+
+
+---
+
+
+<p>
   <h3> <a href="https://github.com/ifeomamegwai/Renewable-Energy-Worldwide-Project" target="_blank"> Renewable-Energy-Worldwide-Project</a> </h3>
 
  
@@ -183,19 +196,6 @@
  
  <br/>
       <a href="https://github.com/ifeomamegwai/Python-And-Machine-Learning/" target="_blank"> <img src="https://github.com/user-attachments/assets/ef5ec2dc-e52f-4ab8-8243-8e2064df5b4b" width="780px"/>  </a> 
-
-</p>
-
-
----
-
-
-<p>
-  <h3> <a href="https://github.com/ifeomamegwai/End-to-End-Automation-for-Compliance-Reporting-/" target="_blank"> Regulatory Reporting Compliance</a> </h3>
-
- 
- <br/>
-      <a href="https://github.com/ifeomamegwai/End-to-End-Automation-for-Compliance-Reporting-/" target="_blank"> <img src="https://github.com/ifeomamegwai/ifeomamegwai/blob/main/Regulatory%20Reporting%20Automation%20Dashboard2.jpg"/>  </a> 
 
 </p>
 <br/>
