@@ -187,6 +187,17 @@
 </p>
 
 
+---
+
+
+<p>
+  <h3> <a href="https://github.com/ifeomamegwai/End-to-End-Automation-for-Compliance-Reporting-/" target="_blank"> Regulatory Reporting Compliance</a> </h3>
+
+ 
+ <br/>
+      <a href="https://github.com/ifeomamegwai/End-to-End-Automation-for-Compliance-Reporting-/" target="_blank"> <img src="https://github.com/ifeomamegwai/ifeomamegwai/blob/main/Regulatory%20Reporting%20Automation%20Dashboard2.jpg"/>  </a> 
+
+</p>
 <br/>
 
 ---
